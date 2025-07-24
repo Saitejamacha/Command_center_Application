@@ -151,4 +151,4 @@ FOREIGN KEY (project_id) REFERENCES projects(id) ON DELETE CASCADE
 ### Clone the Repository
 
 git clone https://github.com/yourusername/alfred-dashboard.git
-cd alfred-dashboard
+
