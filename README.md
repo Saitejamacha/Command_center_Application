@@ -15,20 +15,20 @@ A full-stack web application mimicking the "Alfred" Command Center interface for
 - Actionable messages (Flag Risk/Clarify/Update)
 - Color-coded alert system (info/warning/error/success)
 
-**Dynamic Action Management**
+**3. Dynamic Action Management**
 
 - Editable task items with priority levels
 - Progress tracking with percentage completion
 - Due date monitoring and alerts
 
-**Critical Risk Register**
+**4. Critical Risk Register**
 
 - Real-time risk identification and logging
 - Customizable risk status (New/Monitoring/Resolved)
 - Priority assignment (High/Medium/Low)
 - Risk resolution tracking
 
-**Project Monitoring**
+**5. Project Monitoring**
 
 - Procurement status tracking
 - Testing & commissioning timelines
