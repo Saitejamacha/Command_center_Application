@@ -4,30 +4,35 @@
 
 A full-stack web application mimicking the "Alfred" Command Center interface for project management and monitoring of construction/solar network projects. This dashboard provides:
 
-1. Real-time Project Visualization
-   --- Interactive project maps and progress tracking
-   --- Status indicators for all active sites
+**1. Real-time Project Visualization**
 
-2. Communication Hub
-   --- Live updates with timestamped notifications
-   --- Actionable messages (Flag Risk/Clarify/Update)
-   --- Color-coded alert system (info/warning/error/success)
+- Interactive project maps and progress tracking
+- Status indicators for all active sites
 
-3. Dynamic Action Management
-   --- Editable task items with priority levels
-   --- Progress tracking with percentage completion
-   --- Due date monitoring and alerts
+**2. Communication Hub**
 
-4. Critical Risk Register
-   --- Real-time risk identification and logging
-   --- Customizable risk status (New/Monitoring/Resolved)
-   --- Priority assignment (High/Medium/Low)
-   --- Risk resolution tracking
+- Live updates with timestamped notifications
+- Actionable messages (Flag Risk/Clarify/Update)
+- Color-coded alert system (info/warning/error/success)
 
-5. Project Monitoring
-   --- Procurement status tracking
-   --- Testing & commissioning timelines
-   --- Automated progress reporting
+**Dynamic Action Management**
+
+- Editable task items with priority levels
+- Progress tracking with percentage completion
+- Due date monitoring and alerts
+
+**Critical Risk Register**
+
+- Real-time risk identification and logging
+- Customizable risk status (New/Monitoring/Resolved)
+- Priority assignment (High/Medium/Low)
+- Risk resolution tracking
+
+**Project Monitoring**
+
+- Procurement status tracking
+- Testing & commissioning timelines
+- Automated progress reporting
 
 Implmented features a responsive interface with dark theme styling, database-backed persistence, and REST API endpoints for all core functionality. Designed for solar/construction project teams needing centralized command-and-control capabilities.
 
